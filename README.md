@@ -14,6 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firstagon&show_icons=true&theme=transparent)
+---
+### Используемые технологии
+  - HTML
+  - CSS
+  - JavaScript
+  - React + React Router
+  - React Redux + Toolkit
+  - SCSS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstagon)](https://github.com/anuraghazra/github-readme-stats)
+---
+### Доп. технологии
+  - Nodejs + Express
+  - npm
+  - Git
+  - Docker
+---
+### Контакты
+  - Telegram [@firstagon](https://t.me/firstagon)
+  - Email firstagon@gmail.com
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstagon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
