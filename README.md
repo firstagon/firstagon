@@ -22,10 +22,10 @@ Here are some ideas to get you started:
   - React + React Router
   - React Redux + Toolkit
   - SCSS
+  - Nodejs + Express
 
 ---
 ### Доп. технологии
-  - Nodejs + Express
   - npm
   - Git
   - Docker
