@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 ---
 ### Используемые технологии
   - HTML
-  - CSS
+  - CSS, SCSS
   - JavaScript
   - React + React Router
   - React Redux + Toolkit
-  - SCSS
   - Nodejs + Express
 
 ---
