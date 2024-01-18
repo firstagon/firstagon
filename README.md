@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   - npm
   - Git
   - MongoDB
+  - PostgreSQL
   - Docker
 ---
 ### Контакты
